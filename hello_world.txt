@@ -1,0 +1,2 @@
+This is fun!
+I hope I can learn to use the CLI even more!
